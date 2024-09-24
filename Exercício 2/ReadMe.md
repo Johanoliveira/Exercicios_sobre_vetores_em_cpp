@@ -1,0 +1,1 @@
+2) Faça um fluxograma/programa que carregue um vetor de 15 elementos inteiros e verifique a existência de elementos iguais a 30, mostrando as posições em que esses elementos aparecem. Utilize funções.
