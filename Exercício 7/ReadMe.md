@@ -1,0 +1,1 @@
+7) Escreva um fluxograma/programa para ler dois vetores (A e B), ambos com 5 elementos inteiros. Em seguida crie um vetor X com 10 elementos e copie os valores de A e B para esse vetor (união de A com B). Utilize funções (opcional).
