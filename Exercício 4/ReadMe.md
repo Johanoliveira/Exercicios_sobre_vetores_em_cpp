@@ -1,0 +1,1 @@
+4) Faça um fluxograma/programa que carregue dois vetores de 6 elementos numéricos cada um e mostre um vetor resultante da multiplicação desses dois vetores. Utilize funções (opcional).
