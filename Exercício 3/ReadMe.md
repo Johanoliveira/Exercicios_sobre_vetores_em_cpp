@@ -1,0 +1,1 @@
+3) Faça um fluxograma/programa para ler um vetor A de 10 elementos inteiros e um valor X também inteiro. Armazenar em um vetor M o resultado de cada elemento de A multiplicado pelo valor X. Logo após, imprimir o vetor M. Utilize funções (opcional).
