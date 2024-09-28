@@ -14,8 +14,8 @@ int main () {
 	setlocale (LC_ALL,"Portuguese");
 	
 	for(Cont=0; Cont<Total; Cont++){
-		cout << " Digite o nÃºmero da " << Cont+1 << "Â° posiÃ§Ã£o: ";
-		cin >> Num[Total];
+		cout << " Digite o número da " << Cont+1 << "° posição: ";
+		cin >> Num[Cont];
 		system("cls");
 		
 		if(Cont==0){
@@ -33,11 +33,11 @@ int main () {
 	for(Cont=0; Cont<Total; Cont++){
 		
 		if(Num[Cont] == PMaiorNum){
-			cout << " O maior nÃºmero Ã© " << PMaiorNum << " na posiÃ§Ã£o " << Cont+1 << endl;
+			cout << " O maior o maior número é " << PMaiorNum << " na posição " << Cont+1 << endl;
 		}
 		else{
 			if(Num[Cont] == PMenorNum){
-				cout << " O menor nÃºmero Ã© " << PMenorNum << " na posiÃ§Ã£o " << Cont+1;
+				cout << " O menor número é " << PMenorNum << " na posição " << Cont+1 <<endl;
 			}
 		}
 	}
