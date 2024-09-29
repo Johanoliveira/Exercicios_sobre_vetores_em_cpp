@@ -14,7 +14,7 @@ int main () {
 
 	}
 	for(int Cont=0; Cont <= 9; Cont++){
-		cout<<Y[Cont]<<"; ";
+		cout<<Y[Cont]<<": ";
 	}
 
 	return 0;
