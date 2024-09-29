@@ -6,9 +6,8 @@ using namespace std;
 float Y[10], X[10];
 int main () {
 	setlocale (LC_ALL,"Portuguese");
-	system ("color 21");
 	for(int Cont=0; Cont <= 9; Cont++) {
-		cout<<"Insira o "<<Cont+1<<"บ valor de X: \n";
+		cout<<"Insira o "<<Cont+1<<"ยบ valor de X: \n";
 		cin>>X[Cont];
 		Y[9-Cont] = X[Cont];
 		system("cls");
